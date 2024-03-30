@@ -12,8 +12,11 @@ Uma curiosidade interessante é que a escolha da cor do led (verde), surgiu a pa
 
 Deixo abaixo uma demonstração simples do sensor funcionando e detectando o movimento de algumas tampinhas de garrafas:
 
+<div align="center">
+
 https://github.com/Victor-Lis/Sensor_de_Luminosidade-LDR/assets/109773129/76468fc5-741a-4906-88f8-f972c4fa3bb6
 
+</div>
 
 ## Autores
 
