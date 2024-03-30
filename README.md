@@ -8,6 +8,13 @@ Em resumo o código tem costantemente um led apontado para o sensor LDR, caso ha
 
 Uma curiosidade interessante é que a escolha da cor do led (verde), surgiu a partir de uma aula de Biologia, onde aprendi o porque do principal pigmento para o processo de fotossintese ser verde.
 
+## Demonstração
+
+Deixo abaixo uma demonstração simples do sensor funcionando e detectando o movimento de algumas tampinhas de garrafas:
+
+https://github.com/Victor-Lis/Sensor_de_Luminosidade-LDR/assets/109773129/76468fc5-741a-4906-88f8-f972c4fa3bb6
+
+
 ## Autores
 
 - [@Victor-Lis](https://github.com/Victor-Lis)
