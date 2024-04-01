@@ -18,6 +18,8 @@ https://github.com/Victor-Lis/Sensor_de_Luminosidade-LDR/assets/109773129/76468f
 
 </div>
 
+Acredito que por fim não necessariamente utilize esse sensor para o projeto maior que estou desenvolvendo, mas definitivamente mudou minha visão quanto aos sensores, meio que "saindo de dentro da caixa", ver que por exemplo um sensor de luminosidade poderia se sair melhor detectando movimento no meu projeto que outros sensores próprios para tal abriu minha cabeça.
+
 ## Autores
 
 - [@Victor-Lis](https://github.com/Victor-Lis)
